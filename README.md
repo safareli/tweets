@@ -1,3 +1,8 @@
+#  Tweets
+
+Here is list of resources I have been tweeting for couple years about FP, JavScript, Front-end and some general Enginearing topics:
+
+
 ## 2014 Now
 
 * 📼 [David Nolen - Immutability, interactivity & JavaScript (FutureJS 2014):](https://www.youtube.com/watch?v=mS264h8KGwk)
