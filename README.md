@@ -1,7 +1,7 @@
 ## 2014 Now
 
 * 📼 [David Nolen - Immutability, interactivity & JavaScript (FutureJS 2014):](https://www.youtube.com/watch?v=mS264h8KGwk)
-* 📼 [David Nolen - "ClojureScript: Lisp's Revenge":](https://www.youtube.com/watch?v=MTawgp3SKy8)
+* 📼 [GOTO 2013 • ClojureScript: Lisp's Revenge • David Nolen](https://www.youtube.com/watch?v=MTawgp3SKy8)
 * 📼 [@drboolean - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 * 📼 [@drboolean - Monads, Monoids, and Make Believe](https://www.youtube.com/watch?v=srbDnTrDGqI)
 * 📼 [@drboolean - Functional programming patterns for the non-mathematician (cut)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
@@ -12,7 +12,6 @@
 * 📼 [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
 * 📼 [Ruby Manor 3 - Programming with Nothing by Tom Stuart](https://www.youtube.com/watch?v=VUhlNx_-wYk)
 * 📄 [Why Ramda?](http://fr.umio.us/why-ramda/)
-* 📄 [really good post about RamdaJS and about functional programming](http://fr.umio.us/why-ramda/)
 * 📼 [Simple Made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 * 📄 [Reactive MVC and virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 * 📼 [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs)
@@ -41,7 +40,7 @@
 * 📼 [Railway Oriented Programming - Error handling in functional languages](https://vimeo.com/97344498)
 * 🔖 [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 * 📄 [Functors and Applicatives - @buzzdecafe](http://rawgit.com/buzzdecafe/pres/master/algebra.html)
-* 📼 [ "Turning the database inside out with Apache Samza" by Martin Kleppmann:](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+* 📼 ["Turning the database inside out with Apache Samza" by Martin Kleppmann:](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 
 
 ## 2015 Apr
@@ -61,12 +60,12 @@
 * 📼 [React.js Conf 2015 - Refracting React](https://www.youtube.com/watch?v=5hGHdETNteE)
 * 📼 [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 * 📼 [React.js Conf 2015 - Communicating with channels](https://www.youtube.com/watch?v=W2DgDNQZOwo)
-* 📄 [ "Taming the Asynchronous Beast with CSP Channels in JavaScript" ](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
+* 📄 ["Taming the Asynchronous Beast with CSP Channels in JavaScript" ](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
 * 📄 [CSP vs. FRP](http://potetm.github.io/2014/01/07/frp.html)
 * 📄 [David Nolen's Responsive Design](http://potetm.github.io/2014/01/27/responsive-design-csp.html)
 * 📄 [TRANSDUCERS ARE COMING](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)
 * 📄 [CSP and transducers in JavaScript](http://phuu.net/2014/08/31/csp-and-transducers.html)
-* 📼 [ "Transducers" by Rich Hickey](https://www.youtube.com/watch?v=6mTbuzafcII)
+* 📼 ["Transducers" by Rich Hickey](https://www.youtube.com/watch?v=6mTbuzafcII)
 
 
 ## 2015 Jun
@@ -79,9 +78,9 @@
 
 * 📼 [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * 📄 [“Functional Reactive React.js” by @garychambers108](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
-* 📄 [ "Using RxJS instead of Flux with React" @justinwoo](https://gist.github.com/justinwoo/08f9f8fcdcf865025f18)
-* 📄 [ "Reactive ReactJS: improving data flow using reactive streams" @astolwijk](http://www.aryweb.nl/2015/02/16/Reactive-React-using-reactive-streams/)
-* 📼 [ "React: RESTful UI Rendering" by Pete Hunt](https://www.youtube.com/watch?v=IVvHPPcl2TM)
+* 📄 ["Using RxJS instead of Flux with React" @justinwoo](https://gist.github.com/justinwoo/08f9f8fcdcf865025f18)
+* 📄 ["Reactive ReactJS: improving data flow using reactive streams" @astolwijk](http://www.aryweb.nl/2015/02/16/Reactive-React-using-reactive-streams/)
+* 📼 ["React: RESTful UI Rendering" by Pete Hunt](https://www.youtube.com/watch?v=IVvHPPcl2TM)
 
 
 ## 2015 Aug
@@ -114,8 +113,8 @@
 * 📄 [Functional Programming in Javascript === Garbage « Thomas Reynolds](http://awardwinningfjords.com/2014/04/21/functional-programming-in-javascript-equals-garbage.html)
 * 📄 [Transducers.js Round 2 with Benchmarks](http://jlongster.com/Transducers.js-Round-2-with-Benchmarks)
 * 📄 [What Code Does vs What Code Means](https://begriffs.com/posts/2015-12-26-what-code-means.html)
-* 📄 [ "CSP and transducers in JavaScript" - @phuunet](https://tgvashworth.com/2014/08/31/csp-and-transducers.html)
-* 📼 [ "What if the user was a function?" by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
+* 📄 ["CSP and transducers in JavaScript" - @phuunet](https://tgvashworth.com/2014/08/31/csp-and-transducers.html)
+* 📼 ["What if the user was a function?" by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 * 📼 [Cycle.js and functional reactive user interfaces | Andre Staltz | Reactive 2015](https://www.youtube.com/watch?v=uNZnftSksYg)
 
 
@@ -141,7 +140,7 @@
 * 📼 [Clojure for Java Programmers - Rich Hickey [Part 2 ]](https://www.youtube.com/watch?v=hb3rurFxrZ8)
 * 📼 [Clojure for Java Programmers - Rich Hickey [Part 1 ]](https://www.youtube.com/watch?v=P76Vbsk_3J0)
 * 📼 [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw)
-* 📼 [ "A Million Ways to Fold in JS" by @drboolean](https://www.youtube.com/watch?v=JZSoPZUoR58)
+* 📼 ["A Million Ways to Fold in JS" by @drboolean](https://www.youtube.com/watch?v=JZSoPZUoR58)
 
 
 ## 2016 Mar
@@ -160,8 +159,8 @@
 * 📄 [Free(er) Monads in JS](https://medium.com/@drboolean/free-er-monads-in-js-f5a59e7abc82)
 * 📄 [Coyoneda in JS](https://medium.com/@drboolean/coyoneda-in-js-a6565b46878c)
 * 📄 [“Lenses with Immutable.js” by @drboolean](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780)
-* 📄 [ "Comonads, Monoids and Trees" -- Hardy Jones](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
-* 📄 [ "Lenses and Virtual DOM Support Open Closed' -- Hardy Jones](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
+* 📄 ["Comonads, Monoids and Trees" -- Hardy Jones](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
+* 📄 ["Lenses and Virtual DOM Support Open Closed' -- Hardy Jones](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
 * 📄 [@drboolean - Monoidal Contravariant Functors are actually useful!](https://medium.com/@drboolean/monoidal-contravariant-functors-are-actually-useful-1032211045c4)
 * 📄 [Expert to Expert - Erik Meijer and Lars Bak: Inside V8 - A Javascript Virtual Machine](https://channel9.msdn.com/Shows/Going+Deep/Expert-to-Expert-Erik-Meijer-and-Lars-Bak-Inside-V8-A-Javascript-Virtual-Machine)
 * 📼 [Demand-Driven Architecture](https://www.infoq.com/presentations/domain-driven-architecture)
@@ -169,7 +168,7 @@
 
 ## 2016 Apr
 
-* 📼 [+- [LambdaConf 2015 - Pattern Functors... Alejandro Serrano Mena](https://www.youtube.com/watch?v=FO93kIJnQ0M)
+* 📼 [LambdaConf 2015 - Pattern Functors... Alejandro Serrano Mena](https://www.youtube.com/watch?v=FO93kIJnQ0M)
 * 📼 [LambdaConf 2015 - Give me Freedom or Forgeddaboutit Joseph Abrahamson](https://www.youtube.com/watch?v=K8f19pXB3ts)
 * 📄 [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
 * 📄 [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
@@ -178,11 +177,11 @@
 * 📼 [Run free with the monads: Free Monads for fun and profit - Ken Scrambler](https://www.youtube.com/watch?v=fU8eKoakd6o)
 * 📄 [Free Monads Are Simple - Underscore](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html)
 * 📼 [Dead-Simple Dependency Injection](https://www.youtube.com/watch?v=ZasXwtTRkio)
-* 📼 [ "Functionalish programming in Python with effect" ](https://www.youtube.com/watch?v=fM5d_2BS6FY)
-* 📼 [ "Side Effects are a Public API" by @radix](https://www.youtube.com/watch?v=D37dc9EoFus)
+* 📼 ["Functionalish programming in Python with effect" ](https://www.youtube.com/watch?v=fM5d_2BS6FY)
+* 📼 ["Side Effects are a Public API" by @radix](https://www.youtube.com/watch?v=D37dc9EoFus)
 * 📼 [Rethinking All Practices: Building Applications in Elm - Jamison Dance](https://www.youtube.com/watch?v=txxKx_I39a8)
 * 📼 [If you're curious about @elmlang, the Intro to Elm talk I gave at @softwaregr is up!](https://www.youtube.com/watch?v=3_M2G9U51GA)
-* 📄 [ "FP is a such a simple miracle, one must be blind not to see it" - @AntonioBonifati](http://antonio-bonifati.blogspot.com/2011/11/nonacceptance-of-functional-programming.html)
+* 📄 ["FP is a such a simple miracle, one must be blind not to see it" - @AntonioBonifati](http://antonio-bonifati.blogspot.com/2011/11/nonacceptance-of-functional-programming.html)
 * 📄 [Haskell for all - Scrap your type classes](http://www.haskellforall.com/2012/05/scrap-your-type-classes.html)
 * 📼 [Lambda Jam 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pOl4E8x3fmw)
 * 📼 [Contravariance is the Dual of Covariance -- Erik Meijer](https://www.infoq.com/presentations/covariance-contravariance-joy-of-coding-2014)
@@ -191,14 +190,14 @@
 * 📼 [Erik Meijer discusses programming language design, effects and some web programming problems](https://www.infoq.com/interviews/erik-meijer-programming-language-design-effects-purity)
 * 📼 [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](https://www.youtube.com/watch?v=QNpKYypLAO8)
 * 📼 [Haskell is Not For Production and Other Tales](https://www.youtube.com/watch?v=mlTO510zO78)
-* 📄 [ "Why Go gets exceptions right" by @davecheney](http://dave.cheney.net/2012/01/18/why-go-gets-exceptions-right)
-* 📄 [ "Effective Java Exceptions" by Barry Ruzek](http://www.oracle.com/au/products/database/effective-exceptions-092345.html)
-* 📼 [ "Condition Systems in an Exceptional Language" - Chris Houser](https://www.youtube.com/watch?v=zp0OEDcAro0)
-* 📄 [ "The Trouble with Checked Exceptions" A Conversation with Anders Hejlsberg](http://www.artima.com/intv/handcuffs.html)
-* 📄 [ "Sensible Error Handling" from the perspective of game development part-3](http://bitsquid.blogspot.com/2012/02/sensible-error-handling-part-3.html)
-* 📄 [ "Sensible Error Handling" from the perspective of game development part-2](http://bitsquid.blogspot.com/2012/02/sensible-error-handling-part-2.html)
-* 📄 [ "Sensible Error Handling" from the perspective of game development part-1](http://bitsquid.blogspot.com/2012/01/sensible-error-handling-part-1.html)
-* 📄 [ "Error vs. Exception" from Haskell wiki](https://wiki.haskell.org/Error_vs._Exception)
+* 📄 ["Why Go gets exceptions right" by @davecheney](http://dave.cheney.net/2012/01/18/why-go-gets-exceptions-right)
+* 📄 ["Effective Java Exceptions" by Barry Ruzek](http://www.oracle.com/au/products/database/effective-exceptions-092345.html)
+* 📼 ["Condition Systems in an Exceptional Language" - Chris Houser](https://www.youtube.com/watch?v=zp0OEDcAro0)
+* 📄 ["The Trouble with Checked Exceptions" A Conversation with Anders Hejlsberg](http://www.artima.com/intv/handcuffs.html)
+* 📄 ["Sensible Error Handling" from the perspective of game development part-3](http://bitsquid.blogspot.com/2012/02/sensible-error-handling-part-3.html)
+* 📄 ["Sensible Error Handling" from the perspective of game development part-2](http://bitsquid.blogspot.com/2012/02/sensible-error-handling-part-2.html)
+* 📄 ["Sensible Error Handling" from the perspective of game development part-1](http://bitsquid.blogspot.com/2012/01/sensible-error-handling-part-1.html)
+* 📄 ["Error vs. Exception" from Haskell wiki](https://wiki.haskell.org/Error_vs._Exception)
 * 📄 [Maybe/Either vs exceptions](http://programmers.stackexchange.com/a/150905/113613)
 
 
@@ -208,7 +207,7 @@
 * 📼 [2 01 Freer Monad, More Extensible Effects](https://www.youtube.com/watch?v=3Ltgkjpme-Y&list=PLnqUlCo055hV5dPC-4VWeXzhI8ooeTsVy)
 * 📄 [Rust for functional programmers](http://science.raphael.poss.name/rust-for-functional-programmers.html)
 * 📄 [Quick fact: You could build try/throw/catch system in c using longjmp and setjmp.](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
-* 📄 [ "Ditch your ORM. Embrace immutability-oriented design. It works better." by @_solnic_](http://solnic.eu/2015/09/18/ditch-your-orm.html)
+* 📄 ["Ditch your ORM. Embrace immutability-oriented design. It works better." by @_solnic_](http://solnic.eu/2015/09/18/ditch-your-orm.html)
 * 📼 [The Value of Values with Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 * 📼 [There are no exceptions in Mars Rover Flight Software](https://www.youtube.com/watch?v=3SdSKZFoUa8)
 * 📄 [Realy interesting article about avolution of arror handling model in Midori "The Error Model" from @xjoeduffyx](http://joeduffyblog.com/2016/02/07/the-error-model/)
@@ -274,8 +273,8 @@
 * 📄 [What are free monads?](http://stackoverflow.com/a/13357359/1798418)
 * 📄 [What is the “Free Monad + Interpreter” pattern?](http://programmers.stackexchange.com/a/242803/113613)
 * 📄 [The functor design pattern. > If you think you already understand functors, then think again](http://www.haskellforall.com/2012/09/the-functor-design-pattern.html)
-* 📄 [ "Doctor, I learned Haskell, and now imperative code feels kludgy." ](https://www.quora.com/Is-it-normal-to-view-other-programming-languages-as-kludgy-after-learning-Haskell)
-* 📄 [ "Understanding F-Algebras" by @BartoszMilewski](http://schoolofhaskell.com/user/bartosz/understanding-algebras)
+* 📄 ["Doctor, I learned Haskell, and now imperative code feels kludgy." ](https://www.quora.com/Is-it-normal-to-view-other-programming-languages-as-kludgy-after-learning-Haskell)
+* 📄 ["Understanding F-Algebras" by @BartoszMilewski](http://schoolofhaskell.com/user/bartosz/understanding-algebras)
 * 📄 [Difference between Free monads and Fixpoints of functors?](http://stackoverflow.com/a/17476076/1798418)
 * 📄 [Answer: What is the “Free Monad + Interpreter” pattern? by @tikhonjelvis](http://programmers.stackexchange.com/a/242803/113613)
 * 📄 [vector ~ lazy | raster ~ strict Thinking with Laziness - from @tikhonjelvis](https://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
@@ -283,7 +282,7 @@
 * 📄 [Continuation: The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
 * 📄 [Haskell: A Look at the Continuation Monad](http://unbui.lt/#!/post/haskell-cont-monad/)
 * 📄 [Functional Programming For The Rest of Us](http://www.defmacro.org/ramblings/fp.html)
-* 📼 [ "Dynamics of change: why reactivity matters", my talk at PolyConf from 2 weeks ago, published!](https://www.youtube.com/watch?v=v68ppDlvHqs)
+* 📼 ["Dynamics of change: why reactivity matters", my talk at PolyConf from 2 weeks ago, published!](https://www.youtube.com/watch?v=v68ppDlvHqs)
 * 📼 [Why the free Monad isn't free - by Kelley Robinson](https://www.youtube.com/watch?v=U0lK0hnbc4U)
 * 📄 [Like formalized translator pattern from Elm community for child to parent communication](https://medium.com/@alex.lew/the-translator-pattern-a-model-for-child-to-parent-communication-in-elm-f4bfaa1d3f98#.i4uzvf2ul)
 * 📼 [The Free and The Furious: And by 'Furious' I mean Codensity. - raichoo](https://www.youtube.com/watch?v=EiIZlX_k89Y)
@@ -310,7 +309,7 @@
 * 📼 [I need to understand yoneda lemma :d "Category Theory" by Tom LaGatta](https://www.youtube.com/watch?v=o6L6XeNdd_k)
 * 📄 [Fantasy Land: the last API you'll ever need.](http://james-forbes.com/?/posts/the-perfect-api)
 * 📼 [The point-free blackbird operator (...) = (.) . (.) in haskell is amazing!](https://www.youtube.com/watch?v=seVSlKazsNk)
-* 📼 [ "Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8&list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+* 📼 ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8&list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * 📄 [Destroy All Ifs — A Perspective from Functional Programming](http://degoes.net/articles/destroy-all-ifs)
 
 
@@ -353,14 +352,14 @@
 * 📄 [What is a state monad?](https://www.quora.com/What-is-a-state-monad/answer/Bartosz-Milewski?share=e8c26387)
 * 🔖 [Free Applicative Functors](https://arxiv.org/pdf/1403.0749v3.pdf)
 * 📼 [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
-* 📼 [ "Software that does stuff -> Software that describes stuff" A Year living Freely - @cwmyers](https://www.youtube.com/watch?v=rK53C-xyPWw)
+* 📼 ["Software that does stuff -> Software that describes stuff" A Year living Freely - @cwmyers](https://www.youtube.com/watch?v=rK53C-xyPWw)
 * 📼 [Growing a DSL for financial calculations - Jan Ouwens](https://www.youtube.com/watch?v=W37Mp3mBYLw)
 * 📼 [The video of my purescript talk from @CodeMeshIO ("Stack Safety for Free") is now available](https://www.youtube.com/watch?v=OFzhfbPO9ds)
 * 📼 [@joeerl interviewing Alan Kay now live at](https://www.youtube.com/watch?v=fhOHn9TClXY&list=PLWbHc_FXPo2hGJHXhpgqDU-P4BArpCdh6)
 * 📄 [I wrote another little note on recursion schemes. This time it's pre and postpromorphisms.](https://jtobin.io/promorphisms-pre-post)
-* 📄 [ "Lisp in Your Language" via @_danprince](http://danthedev.com/2015/09/09/lisp-in-your-language)
+* 📄 ["Lisp in Your Language" via @_danprince](http://danthedev.com/2015/09/09/lisp-in-your-language)
 * 📄 [beta version of Free Applicative "Applicative, bidirectional serialization combinators" @jaspervdj](https://jaspervdj.be/posts/2012-09-07-applicative-bidirectional-serialization-combinators.html)
-* 📄 [ "Towards free Applicatives" by Tom Ellis](http://web.jaguarpaw.co.uk/~tom/blog/posts/2012-09-09-towards-free-applicatives.html)
+* 📄 ["Towards free Applicatives" by Tom Ellis](http://web.jaguarpaw.co.uk/~tom/blog/posts/2012-09-09-towards-free-applicatives.html)
 * 📄 [special case of Free Applicative "Applicative option parser" - Paolo Capriotti](http://www.paolocapriotti.com/blog/2012/04/27/applicative-option-parser/)
 * 📄 [Flavours of free applicative functors via @shebang](https://ro-che.info/articles/2013-03-31-flavours-of-free-applicative-functors.html)
 * 📄 [Dlist like optimisation for Free Applicative by @zednenem](https://www.eyrie.org/~zednenem/2013/05/27/freeapp)
@@ -412,7 +411,7 @@
 * 📼 [Edward Kmett - Monad Transformer Lenses](https://www.youtube.com/watch?v=Bxcz23GOJqc)
 * 📄 [A Little Lens Starter Tutorial](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial)
 * 📄 [How to Replace Failure by a Heap of Successes](https://www.schoolofhaskell.com/user/edwardk/heap-of-successes)
-* 📼 [ "Haskell Sucks!" - Paul Bone](https://www.youtube.com/watch?v=rvRD_LRaiRs)
+* 📼 ["Haskell Sucks!" - Paul Bone](https://www.youtube.com/watch?v=rvRD_LRaiRs)
 * 📼 [Understanding parser combinators: a deep dive - Scott Wlaschin](https://vimeo.com/171704565)
 * 📄 [Profunctors in Haskell:](http://blog.sigfpe.com/2011/07/profunctors-in-haskell.html)
 * 📄 [I love profunctors. They're so easy:](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/profunctors)
@@ -442,7 +441,7 @@
 * 📄 [I wrote a simple crud DSL example in purescript with interpreter as a cofree commonad running async computations:](https://github.com/coot/purescript-dsl-example)
 * 📼 [PolyConf 15: Post FRP Frontend Programming / Bodil Stokke](https://www.youtube.com/watch?v=X5YBsy6PaDw)
 * 📼 [Halogen Presentation at PureScript Conf 2015](https://www.youtube.com/watch?v=AbDX-wRigAo)
-* 📼 [ "Idris: Practical Dependent Types with Practical Examples" by Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
+* 📼 ["Idris: Practical Dependent Types with Practical Examples" by Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
 * 📄 [I've published new post "Ascetic masochism of Functional Programmers" explaining what excites me about FP paradigm](http://www.rabbitonweb.com/2017/03/16/ascetic-masochism-of-functional-programmers/)
 * 📼 [Pretty good introduction to "Free" from Tree by @natefaubion Bonus! - Introducing PureScript Virtual-DOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 * 📄 [Why Concatenative Programming Matters - @whyevernotso](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
@@ -455,7 +454,7 @@
 
 ## 2017 Apr
 
-* 📄 [ "Don't Eff it up: freer monads in action" ](http://reasonablypolymorphic.com/dont-eff-it-up/)
+* 📄 ["Don't Eff it up: freer monads in action" ](http://reasonablypolymorphic.com/dont-eff-it-up/)
 * 📄 [How can I show or explain some practical advantages of functional programming to someone who's worked as a develope…](https://www.quora.com/How-can-I-show-or-explain-some-practical-advantages-of-functional-programming-to-someone-whos-worked-as-a-developer-20-years-ago/answer/Bartosz-Milewski?share=6e00e3d1)
 * 📄 [This is clever: using a property testing library to solve a search puzzle](http://clrnd.com.ar/posts/2017-04-21-the-water-jug-problem-in-hedgehog.html)
 * 📄 [Racket vs Clojure (it's all about the data structures)](http://programming-puzzler.blogspot.com/2010/08/racket-vs-clojure.html)
@@ -512,7 +511,7 @@
 * 📼 [Phil Freeman - PureScript's Typesystem](https://www.youtube.com/watch?v=SPpIbiZFPRY)
 * 📼 [Interesting talk about GUIs and FP Tangible Functional Programming - @conal](https://www.youtube.com/watch?v=faJ8N0giqzw)
 * 📼 [Mark Jones: Language and Program Design for Functional Dependencies](https://www.youtube.com/watch?v=oFopoOr9lmw)
-* 📼 [ "The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+* 📼 ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * 📼 [My presentation on IndexedState as a reminder to Index your State in scala :-)](https://www.youtube.com/watch?v=eO1JLs5FR6k)
 * 📼 [Scala days 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pQyH0p-XJzE)
 * 📄 [purescript blog post about the new RowToList type class which will give you and your libraries super powers:](https://liamgoodacre.github.io/purescript/rows/records/2017/07/10/purescript-row-to-list.html)
