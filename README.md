@@ -1,7 +1,6 @@
 #  Tweets
 
-Here is list of resources I have been tweeting for couple years about FP, JavScript, Front-end and some general Enginearing topics:
-
+Here is list of resources I have been tweeting for couple years about  Functional Programming, JavaScript, Front-end and some general Engineering topics:
 
 ## 2014 Now
 
